@@ -2,7 +2,7 @@
 $config['database'] = [
   'host' => 'localhost',
   'user' => 'root',
-  'pass' => 'mysql',
-  'db' => 'webbanhang'
+  'pass' => '',
+  'db' => 'mvc_training'
 ];
 ?>
