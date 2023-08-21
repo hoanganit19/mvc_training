@@ -1,5 +1,6 @@
 <?php 
-class Posts extends Controller{
+//{controllerName} Controller
+class {controllerName} extends Controller{
     
     public $data = [], $model = [];
     
